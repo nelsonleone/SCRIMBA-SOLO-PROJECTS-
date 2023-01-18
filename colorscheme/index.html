@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" size="32x32" href="images/favicon.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Color Scheme</title>
+</head>
+<body>
+    <header>
+        <div class="contents">
+            <div>
+                <label for="seed-color">Color Seed</label>
+                <input type="color" id="seed-color" data-color>
+            </div>
+            <div>
+                <label for="color-mode">Choose Color Mode</label>
+                <select id="color-mode" name="color-mode" data-select>
+                    <option value="monochrome">monochrome</option>
+                    <option value="monochrome-dark"> monochrome-dark</option>
+                    <option value="monochrome-light">monochrome-light</option>
+                    <option value="analogic">analogic</option>
+                    <option value="complement">complement</option>
+                    <option value="analogic-complement">analogic-complement</option>
+                    <option value="triad">triad</option>
+                    <option value="quad">quad</option>
+                </select>
+            </div>
+            <div>
+                <label for="select-count">Select Color Count</label>
+               <select id="select-count" data-count>
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+               </select>
+            </div>
+            <button data-button>Get Color Scheme</button>
+        </div>
+            
+        <div class="menu-icons">
+            <div>
+                <div class="toggle-theme">
+                    <div class="toggle-icon" id="toggle-icon"></div>
+                </div>
+                <p>Toggle Theme</p>
+            </div>
+
+            <div class="get-random">
+                <img src="images/icons8-dice-68.png" alt="" id="randomImg" aria-labelledby="random-title">
+                <title id="random-title">get Random Color Scheme Based on your Input</title>
+                <p>Get Random Scheme</p>
+            </div>
+        </div>
+
+        <div class="copied">Copied</div>
+    </header>
+
+    <main>
+    </main>
+
+ <script src="script.js" defer></script>
+</body>
