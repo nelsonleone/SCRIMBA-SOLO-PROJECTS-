@@ -20,6 +20,7 @@ This is a selected set of Scrimba's Frontend Career Path (SFCP) solo projects.
  3. The Password Generator App
     - Level (Basic)
     - LIVE PREVIEW: https://comfy-panda-af9548.netlify.app/
-    -![image](https://user-images.githubusercontent.com/95982650/213234922-1a4a182f-8a87-4aac-862d-b2c8c3fa0fce.png)
+    - ![image](https://user-images.githubusercontent.com/95982650/213235324-8536ba86-35c7-4926-98bf-05e474d7f0a3.png) 
+
 
 
