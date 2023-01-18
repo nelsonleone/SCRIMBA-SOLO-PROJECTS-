@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="passwordGen.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="image/Qmark.png" type="image/x-icon">
+    <title>TUTORIAL</title>
+</head>
+<body>
+    <div class="cntr">
+        <h1>Generate A <span>Random Password</span></h1>
+        <p>Never Use An Insecure Password Again</p></br>
+        <button id="generatePsw" onclick="generatePsw();generatePsw2()">Generate Passwords</button>
+        <p id="demo"></p>
+        <div class="generated-psw">
+            <input type="text" name="generatedPassword" value="" id="genPassword1" /><span href="" onclick="copyPastePassword1()"><i class="fa fa-copy"></i></span>
+            <p id="demo2"></p>
+            <input type="text" name="generatedPassword" value="" id="genPassword2" /><span href="" onclick="copyPastePassword2()"><i class="fa fa-copy"></i></span>
+        </div>
+    </div>
+</body>
+<script src="passwordGen.js"></script>
+</html>
