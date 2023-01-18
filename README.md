@@ -38,11 +38,19 @@ This is a selected set of Scrimba's Frontend Career Path (SFCP) solo projects.
    - ![image](https://user-images.githubusercontent.com/95982650/213243690-fe158d88-fdab-4240-bc25-7b6944067677.png)
 
 
+7. Travel Journal (React)
+   - LEVEL : (Basic)
+   - LIVE PREVIEW: [https://astounding-panda-a30057.netlify.app/]
+   - ![Travel-Journal](https://user-images.githubusercontent.com/95982650/213258202-58099b36-1419-4143-b580-3b8ddc7e28b3.png)
+
+   
+
+
 7. QUIZICAL (React)
   - LEVEL : (Advanced)
   - LIVE PREVIEW:[https://unique-cupcake-dd88e3.netlify.app/]  
-  ![image](https://user-images.githubusercontent.com/95982650/213251556-93082015-3e48-4e24-bd2d-4391404bdf62.png)
-
-
-
-
+  - ![image](https://user-images.githubusercontent.com/95982650/213251556-93082015-3e48-4e24-bd2d-4391404bdf62.png)
+  
+  
+  
+  YOU CAN WRITE TO ME IF ANY ISSUE 
